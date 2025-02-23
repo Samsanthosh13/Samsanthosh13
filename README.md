@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Sam Santhosh  
 🚀 Cloud Computing & DevOps Enthusiast | Passionate about Automation & Infrastructure  
+
 📧 [Email Me](mailto:sandysam013@gmail.com)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/sam-santhosh-70169029a/)
 
