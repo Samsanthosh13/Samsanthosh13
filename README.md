@@ -27,13 +27,13 @@
 
 ## 📂 Featured Projects  
 
-🔹 [3-Tier Architecture with VPC, NAT, and RDS] – Designed & implemented a 3-tier cloud architecture with AWS VPC, NAT, and RDS for secure and scalable deployment.  
+🔹 **3-Tier Architecture with VPC, NAT, and RDS** – Designed & implemented a 3-tier cloud architecture with AWS VPC, NAT, and RDS for secure and scalable deployment.  
 
-🔹 [Deploy Infrastructure with Ansible] – Automated cloud infrastructure using Ansible, ensuring consistent and reproducible setups.  
+🔹 **Deploy Infrastructure with Ansible** – Automated cloud infrastructure using Ansible, ensuring consistent and reproducible setups.  
 
-🔹 [Microservices with Kubernetes & Docker] – Built and deployed microservices using Docker Compose, Amazon ECR, and Kubernetes (EKS).  
+🔹 **Microservices with Kubernetes & Docker** – Built and deployed microservices using Docker Compose, Amazon ECR, and Kubernetes (EKS).  
 
-🔹 [Real-Time Vehicle Tracking & Control Android App] – Developed an Android app for vehicle tracking, implemented GSM module & biometric authentication.  
+🔹 **Real-Time Vehicle Tracking & Control Android App** – Developed an Android app for vehicle tracking, implemented GSM module & biometric authentication.  
 
 ---  
 
