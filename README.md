@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Sam Santhosh  
+🚀 Cloud Computing & DevOps Enthusiast | Passionate about Automation & Infrastructure  
+ 
+---  
 
-<!--
-**Samsanthosh13/Samsanthosh13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Technical Skills  
 
-Here are some ideas to get you started:
+☁️ **Cloud Computing:** AWS (EC2, S3, VPC, EKS, ECS, ECR, Code Pipeline, Beanstalk, Amplify, Route 53)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏗️ **Infrastructure as Code (IaC):** Terraform, Ansible  
+
+🔧 **CI/CD & DevOps:** Jenkins, SonarQube, Kubernetes, GitHub Actions  
+
+🐳 **Containers & Orchestration:** Docker, Kubernetes, Docker Compose  
+
+📜 **Scripting & Programming:** Bash, Python, YAML  
+
+📊 **Monitoring & Logging:** CloudWatch, Prometheus, Grafana  
+
+🖥️ **Operating Systems:** Linux, Windows  
+
+🔗 **Networking & Security:** IAM, Auto Scaling, Load Balancer, Troubleshooting  
+
+---  
+
+## 📂 Featured Projects  
+
+🔹 [3-Tier Architecture with VPC, NAT, and RDS] – Designed & implemented a 3-tier cloud architecture with AWS VPC, NAT, and RDS for secure and scalable deployment.  
+
+🔹 [Deploy Infrastructure with Ansible] – Automated cloud infrastructure using Ansible, ensuring consistent and reproducible setups.  
+
+🔹 [Microservices with Kubernetes & Docker] – Built and deployed microservices using Docker Compose, Amazon ECR, and Kubernetes (EKS).  
+
+🔹 [Real-Time Vehicle Tracking & Control Android App] – Developed an Android app for vehicle tracking, implemented GSM module & biometric authentication.  
+
+---  
+
+## 🎓 Education 
+
+🎓 *Bachelor of Engineering (B.E.) in Electronics and Communication Engineering*  
+📍 Park College of Engineering and Technology  
+
+---
+
+## 📜 Certifications  
+
+✅ Cloud Computing with DevOps – Career Ladder  
+✅ Big Data Analytics  
+✅ Digital Marketing  
+
+---  
+
+## 📫 Let's Connect!  
+
+[![LinkedIn](https://www.linkedin.com/in/sam-santhosh-70169029a)](Your LinkedIn Profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-lightgray?logo=github)](Your GitHub Profile)
