@@ -52,5 +52,5 @@
 
 ## 📫 Let's Connect!  
 
-[![LinkedIn](https://www.linkedin.com/in/sam-santhosh-70169029a)](Your LinkedIn Profile)  
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-lightgray?logo=github)](Your GitHub Profile)
+📧 [Email Me](mailto:sandysam013@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sam-santhosh-70169029a/)
